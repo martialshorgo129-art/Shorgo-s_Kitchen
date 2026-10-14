@@ -1,4 +1,4 @@
-/* ===== 1. COLOR PALETTE & VARIABLES ===== */
+/* ===== COLOR PALETTE & VARIABLES ===== */
 
 :root {
     --color-dark: #1c1c1c;
@@ -17,7 +17,7 @@
 }
 
 
-/* ===== 2. GLOBAL STYLES ===== */
+/* =====  GLOBAL STYLES ===== */
 
 * {
     box-sizing: border-box;
@@ -50,7 +50,7 @@ a {
 }
 
 
-/* ===== 3. NAVBAR ===== */
+/* =====  NAVBAR ===== */
 
 .navbar {
     padding: 18px 0;
@@ -106,7 +106,7 @@ a {
 }
 
 
-/* ===== 4. HERO SECTION ===== */
+/* ===== HERO SECTION ===== */
 
 .hero {
     position: relative;
@@ -191,7 +191,7 @@ a {
 }
 
 
-/* ===== 5. SHARED SECTION HEADINGS ===== */
+/* ===== SHARED SECTION HEADINGS ===== */
 
 .section-subtitle {
     margin-bottom: 12px;
@@ -212,7 +212,7 @@ a {
 }
 
 
-/* ===== 6. MENU SECTION ===== */
+/* ===== MENU SECTION ===== */
 
 .menu-section {
     padding: 95px 0 !important;
@@ -322,7 +322,7 @@ a {
 }
 
 
-/* ===== 7. ABOUT US SECTION ===== */
+/* =====  ABOUT US SECTION ===== */
 
 .about-section {
     padding: 90px 0 !important;
@@ -440,7 +440,7 @@ a {
 }
 
 
-/* ===== 8. CONTACT SECTION ===== */
+/* ===== CONTACT SECTION ===== */
 
 .contact-section {
     padding: 90px 0 !important;
@@ -510,7 +510,7 @@ a {
 }
 
 
-/* ===== 9. FOOTER SECTION ===== */
+/* ===== FOOTER SECTION ===== */
 
 .footer-section {
     padding: 55px 0 20px;
@@ -583,7 +583,7 @@ a {
 }
 
 
-/* ===== 10. RESPONSIVE DESIGN — TABLETS ===== */
+/* ===== RESPONSIVE DESIGN — TABLETS ===== */
 
 @media (max-width: 991.98px) {
     .navbar-nav {
@@ -621,7 +621,7 @@ a {
 }
 
 
-/* ===== 11. RESPONSIVE DESIGN — MOBILE ===== */
+/* ===== RESPONSIVE DESIGN — MOBILE ===== */
 
 @media (max-width: 767.98px) {
     .hero {
@@ -670,7 +670,7 @@ a {
 }
 
 
-/* ===== 12. RESPONSIVE DESIGN — SMALL PHONES ===== */
+/* ===== RESPONSIVE DESIGN — SMALL PHONES ===== */
 
 @media (max-width: 575.98px) {
     .navbar {
@@ -755,7 +755,7 @@ a {
 }
 
 
-/* ===== 13. ACCESSIBILITY & MOTION ===== */
+/* =====  ACCESSIBILITY & MOTION ===== */
 
 a:focus-visible,
 button:focus-visible {
